@@ -1,2 +1,7 @@
-# hello-world
-My first repository in GitHUb
+Hi!
+
+I'm Darin.
+
+Glad to be here to discover and learn a lot of new and interesting knowledge.
+
+
